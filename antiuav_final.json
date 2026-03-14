@@ -1,0 +1,7140 @@
+{
+  "20190925_111757_1_8_infrared_frame0044.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_8_infrared_frame0686.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.40625,
+            "y_min": 0.3515625,
+            "x_max": 0.475,
+            "y_max": 0.400390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0803.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_8_infrared_frame0430.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.50625,
+            "y_min": 0.375,
+            "x_max": 0.5734375,
+            "y_max": 0.4296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0166.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0172.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_6_infrared_frame0915.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4265625,
+            "y_min": 0.5,
+            "x_max": 0.53125,
+            "y_max": 0.537109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0004.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_4_infrared_frame0291.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.446875,
+            "y_min": 0.544921875,
+            "x_max": 0.49375,
+            "y_max": 0.591796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42552459754049776,
+            "y_min": 0.5312377358973026,
+            "x_max": 0.5119754024595022,
+            "y_max": 0.6054810141026974,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0915.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_5_infrared_frame0696.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.484375,
+            "y_min": 0.650390625,
+            "x_max": 0.5515625,
+            "y_max": 0.712890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4588069017231464,
+            "y_min": 0.6376875187456608,
+            "x_max": 0.5724430982768536,
+            "y_max": 0.7216874812543392,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0194.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0183.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0141.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_4_infrared_frame0195.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5046875,
+            "y_min": 0.46484375,
+            "x_max": 0.628125,
+            "y_max": 0.55859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48901686027646063,
+            "y_min": 0.45068481147289274,
+            "x_max": 0.6457487647235394,
+            "y_max": 0.5727526885271073,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0377.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_infrared_frame0060.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0243.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_6_infrared_frame0214.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2796875,
+            "y_min": 0.572265625,
+            "x_max": 0.4046875,
+            "y_max": 0.62890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0141.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0366.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0351.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0016.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_7_infrared_frame0569.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4171875,
+            "y_min": 0.59765625,
+            "x_max": 0.4921875,
+            "y_max": 0.65625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.40457829788327215,
+            "y_min": 0.5832439097762108,
+            "x_max": 0.5133904521167278,
+            "y_max": 0.6726154652237892,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0354.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_3_infrared_frame0647.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7890625,
+            "y_min": 0.23828125,
+            "x_max": 0.90625,
+            "y_max": 0.349609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7822911846637726,
+            "y_min": 0.23407398119568826,
+            "x_max": 0.9208338153362274,
+            "y_max": 0.34014476880431177,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0997.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_4_infrared_frame0070.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_5_infrared_frame0626.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4125,
+            "y_min": 0.572265625,
+            "x_max": 0.4625,
+            "y_max": 0.638671875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3953999015688896,
+            "y_min": 0.5625106054544449,
+            "x_max": 0.4776469734311104,
+            "y_max": 0.6386612695455551,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0309.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_7_infrared_frame0189.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45625,
+            "y_min": 0.6953125,
+            "x_max": 0.51875,
+            "y_max": 0.744140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.43786767452955244,
+            "y_min": 0.6727508600056171,
+            "x_max": 0.5347885754704476,
+            "y_max": 0.7627960149943829,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0569.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0960.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_9_infrared_frame0550.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.434375,
+            "y_min": 0.48046875,
+            "x_max": 0.4984375,
+            "y_max": 0.541015625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0303.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0337.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0216.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_5_infrared_frame0196.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5671875,
+            "y_min": 0.740234375,
+            "x_max": 0.65,
+            "y_max": 0.791015625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_3_infrared_frame0720.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0292.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0002.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_3_infrared_frame0005.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5453125,
+            "y_min": 0.37890625,
+            "x_max": 0.6078125,
+            "y_max": 0.4453125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5250896061956882,
+            "y_min": 0.368726070523262,
+            "x_max": 0.6311603938043118,
+            "y_max": 0.455492679476738,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0392.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0784.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_2_infrared_frame0610.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2578125,
+            "y_min": 0.498046875,
+            "x_max": 0.4,
+            "y_max": 0.5625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.22454190582036973,
+            "y_min": 0.477027937322855,
+            "x_max": 0.4317080941796303,
+            "y_max": 0.579612687677145,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0370.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_6_infrared_frame0318.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3828125,
+            "y_min": 0.62109375,
+            "x_max": 0.45,
+            "y_max": 0.6875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.36950829952955244,
+            "y_min": 0.6142500187456608,
+            "x_max": 0.46642920047044756,
+            "y_max": 0.6982499812543392,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0944.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_2_infrared_frame0811.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_6_infrared_frame0011.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.575,
+            "y_min": 0.451171875,
+            "x_max": 0.6328125,
+            "y_max": 0.501953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0264.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_4_infrared_frame0209.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.59375,
+            "y_min": 0.5,
+            "x_max": 0.628125,
+            "y_max": 0.53125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5733546163141727,
+            "y_min": 0.48792809249833224,
+            "x_max": 0.6414891336858273,
+            "y_max": 0.5433219075016678,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0021.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_3_infrared_frame0772.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3890625,
+            "y_min": 0.5,
+            "x_max": 0.434375,
+            "y_max": 0.548828125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.37041655510663984,
+            "y_min": 0.4887718330323696,
+            "x_max": 0.44989594489336016,
+            "y_max": 0.5659156669676304,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0189.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_8_infrared_frame0730.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6234375,
+            "y_min": 0.48828125,
+            "x_max": 0.6796875,
+            "y_max": 0.5546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0030.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0032.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0160.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0235.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_1_infrared_frame0015.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2671875,
+            "y_min": 0.6171875,
+            "x_max": 0.321875,
+            "y_max": 0.669921875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.24348964869976045,
+            "y_min": 0.6025312687456608,
+            "x_max": 0.3444009763002396,
+            "y_max": 0.6865312312543392,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_infrared_frame0942.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0265.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0835.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_2_infrared_frame0807.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0765.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0139.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_infrared_frame0218.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7578125,
+            "y_min": 0.529296875,
+            "x_max": 0.8046875,
+            "y_max": 0.578125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_4_infrared_frame0884.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_9_infrared_frame0331.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.528125,
+            "y_min": 0.544921875,
+            "x_max": 0.59375,
+            "y_max": 0.607421875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5158134116977453,
+            "y_min": 0.534614569991827,
+            "x_max": 0.6072334633022547,
+            "y_max": 0.617729180008173,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0140.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_7_infrared_frame0183.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.546875,
+            "y_min": 0.4921875,
+            "x_max": 0.6484375,
+            "y_max": 0.587890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5258012111485004,
+            "y_min": 0.4864992271363735,
+            "x_max": 0.6734175388514996,
+            "y_max": 0.6052976478636265,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0097.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_7_infrared_frame0142.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5328125,
+            "y_min": 0.466796875,
+            "x_max": 0.646875,
+            "y_max": 0.560546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5155212092399597,
+            "y_min": 0.4543983261287212,
+            "x_max": 0.6602600407600403,
+            "y_max": 0.5690391738712788,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0937.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_8_infrared_frame0815.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_5_infrared_frame0424.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.340625,
+            "y_min": 0.5703125,
+            "x_max": 0.4828125,
+            "y_max": 0.6171875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2873466271162033,
+            "y_min": 0.551343258023262,
+            "x_max": 0.4763252478837967,
+            "y_max": 0.638109866976738,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0200.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_4_infrared_frame0744.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4609375,
+            "y_min": 0.5,
+            "x_max": 0.5203125,
+            "y_max": 0.560546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4485212317854166,
+            "y_min": 0.49413283124566076,
+            "x_max": 0.5417131432145834,
+            "y_max": 0.5781327937543392,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0239.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0921.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5140625,
+            "y_min": 0.662109375,
+            "x_max": 0.6546875,
+            "y_max": 0.71484375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4930178369581699,
+            "y_min": 0.6427302281558513,
+            "x_max": 0.6554196630418301,
+            "y_max": 0.7381291468441487,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0964.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0034.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0287.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0028.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0302.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_3_infrared_frame0620.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.378125,
+            "y_min": 0.29296875,
+            "x_max": 0.421875,
+            "y_max": 0.345703125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.35310742773115633,
+            "y_min": 0.2857143185287714,
+            "x_max": 0.44181444726884367,
+            "y_max": 0.3588169314712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_4_infrared_frame0071.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_4_infrared_frame0681.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6375,
+            "y_min": 0.53125,
+            "x_max": 0.6734375,
+            "y_max": 0.5625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6174283861368894,
+            "y_min": 0.5164032797515392,
+            "x_max": 0.6892122388631106,
+            "y_max": 0.5714873452484608,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0807.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0050.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_5_infrared_frame0303.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.38125,
+            "y_min": 0.4765625,
+            "x_max": 0.434375,
+            "y_max": 0.53515625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.36009491004049776,
+            "y_min": 0.4697142983973026,
+            "x_max": 0.44654571495950224,
+            "y_max": 0.5439575766026974,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_6_infrared_frame0163.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_infrared_frame0651.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.9140625,
+            "y_min": 0.4609375,
+            "x_max": 0.9609375,
+            "y_max": 0.517578125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0224.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_2_infrared_frame0566.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.584375,
+            "y_min": 0.431640625,
+            "x_max": 0.64375,
+            "y_max": 0.4921875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.558130941838026,
+            "y_min": 0.4151208973675966,
+            "x_max": 0.666478433161974,
+            "y_max": 0.5028478526324034,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0380.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0575.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0802.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_4_infrared_frame0627.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4,
+            "y_min": 0.55859375,
+            "x_max": 0.4515625,
+            "y_max": 0.61328125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.38137637592852114,
+            "y_min": 0.5439559179544449,
+            "x_max": 0.46627987407147886,
+            "y_max": 0.6201065820455551,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_8_infrared_frame0814.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_1_infrared_frame0432.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5921875,
+            "y_min": 0.1328125,
+            "x_max": 0.6546875,
+            "y_max": 0.19140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5709880436956882,
+            "y_min": 0.10836029008030891,
+            "x_max": 0.6770588313043118,
+            "y_max": 0.20804595991969108,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0761.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_6_infrared_frame0583.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4421875,
+            "y_min": 0.501953125,
+            "x_max": 0.5625,
+            "y_max": 0.59375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4271009150147438,
+            "y_min": 0.4862313675880432,
+            "x_max": 0.5807115849852562,
+            "y_max": 0.6055655074119568,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0932.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_2_infrared_frame0617.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.534375,
+            "y_min": 0.509765625,
+            "x_max": 0.63125,
+            "y_max": 0.59765625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5206648032367229,
+            "y_min": 0.4980528648197651,
+            "x_max": 0.6473039467632771,
+            "y_max": 0.6289002601802349,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_3_infrared_frame0110.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_8_infrared_frame0904.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.471875,
+            "y_min": 0.591796875,
+            "x_max": 0.5421875,
+            "y_max": 0.654296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45242986038327215,
+            "y_min": 0.5783610972762108,
+            "x_max": 0.5612420146167278,
+            "y_max": 0.6677326527237892,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_infrared_frame0061.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0794.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0357.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_1_infrared_frame0819.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4,
+            "y_min": 0.48828125,
+            "x_max": 0.4703125,
+            "y_max": 0.544921875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0283.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0051.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_infrared_frame0410.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5234375,
+            "y_min": 0.638671875,
+            "x_max": 0.6609375,
+            "y_max": 0.75
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5069784554839134,
+            "y_min": 0.6240978273749351,
+            "x_max": 0.6824746695160866,
+            "y_max": 0.7587146726250649,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0041.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0924.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0367.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_5_infrared_frame0119.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.459375,
+            "y_min": 0.529296875,
+            "x_max": 0.6046875,
+            "y_max": 0.576171875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4389128643274307,
+            "y_min": 0.5099540366977453,
+            "x_max": 0.6372590106725693,
+            "y_max": 0.6013740883022547,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_3_infrared_frame0502.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0770.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_8_infrared_frame0806.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0766.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_3_infrared_frame0863.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.515625,
+            "y_min": 0.494140625,
+            "x_max": 0.571875,
+            "y_max": 0.5546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4962821616977453,
+            "y_min": 0.48147536024451254,
+            "x_max": 0.5877022133022547,
+            "y_max": 0.5614933897554875,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0905.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0014.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_infrared_frame0056.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0267.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_2_infrared_frame0806.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_6_infrared_frame0159.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.484375,
+            "y_min": 0.486328125,
+            "x_max": 0.5546875,
+            "y_max": 0.5390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_5_infrared_frame0075.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0153.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0261.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_1_infrared_frame0081.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0313.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0178.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_2_infrared_frame0412.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.575,
+            "y_min": 0.4609375,
+            "x_max": 0.609375,
+            "y_max": 0.509765625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5522483955323696,
+            "y_min": 0.4536830685287714,
+            "x_max": 0.6293922294676304,
+            "y_max": 0.5267856814712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0378.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0811.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_6_infrared_frame0932.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.534375,
+            "y_min": 0.431640625,
+            "x_max": 0.6375,
+            "y_max": 0.525390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5116149592399597,
+            "y_min": 0.425824284106493,
+            "x_max": 0.6563537907600403,
+            "y_max": 0.540972590893507,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_4_infrared_frame0654.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_2_infrared_frame0518.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.44375,
+            "y_min": 0.28125,
+            "x_max": 0.515625,
+            "y_max": 0.34765625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42840991869568823,
+            "y_min": 0.26879078477621077,
+            "x_max": 0.5344807063043118,
+            "y_max": 0.35816234022378923,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_2_infrared_frame0817.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_infrared_frame0705.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_8_infrared_frame0182.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7765625,
+            "y_min": 0.205078125,
+            "x_max": 0.8515625,
+            "y_max": 0.240234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0249.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_infrared_frame0490.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7734375,
+            "y_min": 0.369140625,
+            "x_max": 0.815625,
+            "y_max": 0.423828125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0985.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_1_infrared_frame0199.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.40625,
+            "y_min": 0.525390625,
+            "x_max": 0.4625,
+            "y_max": 0.583984375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.38452457591891287,
+            "y_min": 0.5146784852445125,
+            "x_max": 0.48461604908108713,
+            "y_max": 0.5946965147554875,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0225.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0925.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0281.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_8_infrared_frame0037.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0791.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0779.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_4_infrared_frame0333.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.475,
+            "y_min": 0.501953125,
+            "x_max": 0.53125,
+            "y_max": 0.5546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4563337317854166,
+            "y_min": 0.48534376874566076,
+            "x_max": 0.5495256432145834,
+            "y_max": 0.5693437312543392,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_111509_1_3_infrared_frame0713.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_infrared_frame0424.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.790625,
+            "y_min": 0.669921875,
+            "x_max": 0.8421875,
+            "y_max": 0.72265625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.7737368676066398,
+            "y_min": 0.6540905689075589,
+            "x_max": 0.8532162573933602,
+            "y_max": 0.7248156810924411,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0397.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_8_infrared_frame0525.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6015625,
+            "y_min": 0.640625,
+            "x_max": 0.6765625,
+            "y_max": 0.697265625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5852423603832722,
+            "y_min": 0.6242595347762108,
+            "x_max": 0.6940545146167278,
+            "y_max": 0.7136310902237892,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_193610_1_2_infrared_frame0721.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0193.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_9_infrared_frame0209.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.309375,
+            "y_min": 0.560546875,
+            "x_max": 0.3859375,
+            "y_max": 0.623046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3009446221590042,
+            "y_min": 0.553169257491827,
+            "x_max": 0.4002272528409958,
+            "y_max": 0.636283867508173,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_7_infrared_frame0977.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_8_infrared_frame0723.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.478125,
+            "y_min": 0.583984375,
+            "x_max": 0.5578125,
+            "y_max": 0.6640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.43628248527646063,
+            "y_min": 0.5622875835001468,
+            "x_max": 0.5930143897235394,
+            "y_max": 0.6779467914998532,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_infrared_frame0812.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_6_infrared_frame0164.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0215.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_5_infrared_frame0981.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0202.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0205.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0355.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_6_infrared_frame0472.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3109375,
+            "y_min": 0.4140625,
+            "x_max": 0.3796875,
+            "y_max": 0.474609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_1_infrared_frame0582.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_3_infrared_frame0448.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3625,
+            "y_min": 0.578125,
+            "x_max": 0.4,
+            "y_max": 0.625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.34313775554299353,
+            "y_min": 0.5688646962121129,
+            "x_max": 0.42053411945700647,
+            "y_max": 0.6381665537878871,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_infrared_frame0134.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_5_infrared_frame0067.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_3_infrared_frame0286.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5765625,
+            "y_min": 0.314453125,
+            "x_max": 0.6375,
+            "y_max": 0.37109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_10_infrared_frame0265.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_5_infrared_frame0663.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2828125,
+            "y_min": 0.51953125,
+            "x_max": 0.3640625,
+            "y_max": 0.58203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2678962196409702,
+            "y_min": 0.5018693073838949,
+            "x_max": 0.3805412803590298,
+            "y_max": 0.5957869426161051,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_infrared_frame0782.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_193610_1_1_infrared_frame0006.jpg": {
+    "raw_data": [],
+    "tags": [
+      "thermal"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_1_visible_frame0238.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3203125,
+            "y_min": 0.4351851851851852,
+            "x_max": 0.3651041666666667,
+            "y_max": 0.4925925925925926
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.30590494863688944,
+            "y_min": 0.41509501963853834,
+            "x_max": 0.37768880136311056,
+            "y_max": 0.5009206053614617,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0984.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_6_visible_frame0348.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.38385416666666666,
+            "y_min": 0.3712962962962963,
+            "x_max": 0.46927083333333336,
+            "y_max": 0.4740740740740741
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3720763023197651,
+            "y_min": 0.35488603964447973,
+            "x_max": 0.5029236976802349,
+            "y_max": 0.48886396035552027,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_3_visible_frame0014.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_3_visible_frame0036.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_4_visible_frame0252.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4484375,
+            "y_min": 0.46111111111111114,
+            "x_max": 0.5776041666666667,
+            "y_max": 0.525
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42700196385383604,
+            "y_min": 0.44763329952955244,
+            "x_max": 0.594482411146164,
+            "y_max": 0.5445542004704476,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0174.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0727.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0756.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_6_visible_frame0271.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45416666666666666,
+            "y_min": 0.39444444444444443,
+            "x_max": 0.5833333333333334,
+            "y_max": 0.45555555555555555
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.44633382514119146,
+            "y_min": 0.375876744762063,
+            "x_max": 0.5946817998588085,
+            "y_max": 0.462013880237937,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0912.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_2_visible_frame0768.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5078125,
+            "y_min": 0.525,
+            "x_max": 0.5619791666666667,
+            "y_max": 0.5990740740740741
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4896606072038412,
+            "y_min": 0.5052463445067406,
+            "x_max": 0.5786987677961588,
+            "y_max": 0.6041286554932594,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_134054_1_1_visible_frame0121.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_2_visible_frame0133.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.44583333333333336,
+            "y_min": 0.44074074074074077,
+            "x_max": 0.5057291666666667,
+            "y_max": 0.5064814814814815
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4392101816087961,
+            "y_min": 0.42614478200674055,
+            "x_max": 0.5197741933912039,
+            "y_max": 0.5250270929932594,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0160.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_5_visible_frame0305.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5015625,
+            "y_min": 0.37592592592592594,
+            "x_max": 0.5875,
+            "y_max": 0.42407407407407405
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.49149236038327215,
+            "y_min": 0.3550502560287714,
+            "x_max": 0.6003045146167278,
+            "y_max": 0.4281528689712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_visible_frame0333.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_6_visible_frame0373.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5802083333333333,
+            "y_min": 0.537962962962963,
+            "x_max": 0.6890625,
+            "y_max": 0.6046296296296296
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5557951959967613,
+            "y_min": 0.5240058652311563,
+            "x_max": 0.7078766790032387,
+            "y_max": 0.6127128847688437,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0298.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0659.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0495.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_5_visible_frame0550.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.34375,
+            "y_min": 0.5935185185185186,
+            "x_max": 0.4109375,
+            "y_max": 0.6712962962962963
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3201353508234024,
+            "y_min": 0.5829696650803089,
+            "x_max": 0.4240052741765976,
+            "y_max": 0.6826553349196911,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_134054_1_1_visible_frame0036.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0993.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.22395833333333334,
+            "y_min": 0.5203703703703704,
+            "x_max": 0.28229166666666666,
+            "y_max": 0.5842592592592593
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2053211047500372,
+            "y_min": 0.5030733193457126,
+            "x_max": 0.2927257702499628,
+            "y_max": 0.6082548056542874,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0321.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_7_visible_frame0937.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_3_visible_frame0311.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3494791666666667,
+            "y_min": 0.4203703703703704,
+            "x_max": 0.4171875,
+            "y_max": 0.4925925925925926
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.32917396306991575,
+            "y_min": 0.3987555946409702,
+            "x_max": 0.44035728693008425,
+            "y_max": 0.5114006553590298,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0577.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_1_visible_frame0368.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0476.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_4_visible_frame0066.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4401041666666667,
+            "y_min": 0.5083333333333333,
+            "x_max": 0.5640625,
+            "y_max": 0.5657407407407408
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4151815804839134,
+            "y_min": 0.4862899775803089,
+            "x_max": 0.5906777945160866,
+            "y_max": 0.5859756474196911,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0485.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_3_visible_frame0328.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3802083333333333,
+            "y_min": 0.425,
+            "x_max": 0.44427083333333334,
+            "y_max": 0.5027777777777778
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.36356267288327215,
+            "y_min": 0.4036384071409702,
+            "x_max": 0.47237482711672785,
+            "y_max": 0.5162834678590298,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_4_visible_frame0818.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_9_visible_frame0135.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.34427083333333336,
+            "y_min": 0.4925925925925926,
+            "x_max": 0.4317708333333333,
+            "y_max": 0.5962962962962963
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.33524236038327215,
+            "y_min": 0.48273460149765013,
+            "x_max": 0.44405451461672785,
+            "y_max": 0.6129685235023499,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0412.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_4_visible_frame0014.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.44947916666666665,
+            "y_min": 0.37037037037037035,
+            "x_max": 0.5875,
+            "y_max": 0.43796296296296294
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4402834619581699,
+            "y_min": 0.354957624822855,
+            "x_max": 0.6026852880418301,
+            "y_max": 0.457542375177145,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0855.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0520.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_visible_frame0899.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.33125,
+            "y_min": 0.5361111111111111,
+            "x_max": 0.43072916666666666,
+            "y_max": 0.6592592592592592
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3205230231583118,
+            "y_min": 0.5194881553947925,
+            "x_max": 0.4431488518416882,
+            "y_max": 0.6738712196052075,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0627.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0383.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_8_visible_frame0434.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.40572916666666664,
+            "y_min": 0.26851851851851855,
+            "x_max": 0.4953125,
+            "y_max": 0.3175925925925926
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.39106215491890906,
+            "y_min": 0.25879966795444487,
+            "x_max": 0.509328470081091,
+            "y_max": 0.33495033204555513,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0761.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0918.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4744791666666667,
+            "y_min": 0.5324074074074074,
+            "x_max": 0.5296875,
+            "y_max": 0.5916666666666667
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4509947258234024,
+            "y_min": 0.5079561318457126,
+            "x_max": 0.5548646491765976,
+            "y_max": 0.6131376181542874,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_8_visible_frame0354.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0517.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_2_visible_frame0286.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3229166666666667,
+            "y_min": 0.26481481481481484,
+            "x_max": 0.4786458333333333,
+            "y_max": 0.337037037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3092522355914116,
+            "y_min": 0.2494743871688843,
+            "x_max": 0.4856696394085884,
+            "y_max": 0.35599436283111574,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0151.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0987.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_1_visible_frame0412.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5317708333333333,
+            "y_min": 0.37962962962962965,
+            "x_max": 0.6026041666666667,
+            "y_max": 0.45092592592592595
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5284583333333334,
+            "y_min": 0.37533333333333335,
+            "x_max": 0.6043541666666666,
+            "y_max": 0.45337037037037037,
+            "level": "high"
+          },
+          {
+            "x_min": 0.7367916666666666,
+            "y_min": 0.4345925925925926,
+            "x_max": 0.8705,
+            "y_max": 0.6654074074074074,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_9_visible_frame0025.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_4_visible_frame0075.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.19375,
+            "y_min": 0.5111111111111111,
+            "x_max": 0.275,
+            "y_max": 0.5731481481481482
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.18133960619568826,
+            "y_min": 0.4924401897192001,
+            "x_max": 0.28741039380431177,
+            "y_max": 0.5954504352807999,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0694.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0248.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_1_visible_frame0774.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4479166666666667,
+            "y_min": 0.3685185185185185,
+            "x_max": 0.5182291666666666,
+            "y_max": 0.4527777777777778
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42621840491890906,
+            "y_min": 0.343679651170969,
+            "x_max": 0.544484720081091,
+            "y_max": 0.466867223829031,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_8_visible_frame0789.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_1_visible_frame0657.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5223958333333333,
+            "y_min": 0.44074074074074077,
+            "x_max": 0.5973958333333333,
+            "y_max": 0.5231481481481481
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4968928392231464,
+            "y_min": 0.419851526170969,
+            "x_max": 0.6105290357768536,
+            "y_max": 0.543039098829031,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0272.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_5_visible_frame0907.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0504.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_7_visible_frame0331.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.51875,
+            "y_min": 0.4083333333333333,
+            "x_max": 0.6098958333333333,
+            "y_max": 0.5175925925925926
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5105647142231464,
+            "y_min": 0.38937808156013487,
+            "x_max": 0.6242009107768536,
+            "y_max": 0.5285906684398651,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_6_visible_frame0018.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0737.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0265.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0318.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_7_visible_frame0242.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.31927083333333334,
+            "y_min": 0.5175925925925926,
+            "x_max": 0.4005208333333333,
+            "y_max": 0.5731481481481482
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.29840033829212187,
+            "y_min": 0.5078231054544449,
+            "x_max": 0.41253716170787813,
+            "y_max": 0.5839737695455551,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_8_visible_frame0435.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_5_visible_frame0686.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.44479166666666664,
+            "y_min": 0.2601851851851852,
+            "x_max": 0.5359375,
+            "y_max": 0.30462962962962964
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4397712196409702,
+            "y_min": 0.2431746679544449,
+            "x_max": 0.5524162803590298,
+            "y_max": 0.31932533204555513,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_9_visible_frame0766.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_4_visible_frame0471.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.584375,
+            "y_min": 0.4842592592592593,
+            "x_max": 0.6848958333333334,
+            "y_max": 0.6046296296296296
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5696987542510032,
+            "y_min": 0.47102305248379706,
+            "x_max": 0.7017856207489968,
+            "y_max": 0.6129613225162029,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0519.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_3_visible_frame0208.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5854166666666667,
+            "y_min": 0.39814814814814814,
+            "x_max": 0.6463541666666667,
+            "y_max": 0.4787037037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_4_visible_frame0808.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_4_visible_frame0577.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.50625,
+            "y_min": 0.38333333333333336,
+            "x_max": 0.6140625,
+            "y_max": 0.4888888888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.49519666984677313,
+            "y_min": 0.368569563627243,
+            "x_max": 0.6317564551532269,
+            "y_max": 0.504477311372757,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0592.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_4_visible_frame0191.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4390625,
+            "y_min": 0.47314814814814815,
+            "x_max": 0.4859375,
+            "y_max": 0.5370370370370371
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4198158900439739,
+            "y_min": 0.4621247439831495,
+            "x_max": 0.5001059849560261,
+            "y_max": 0.5476408810168505,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_8_visible_frame0816.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_6_visible_frame0085.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.39739583333333334,
+            "y_min": 0.525,
+            "x_max": 0.5083333333333333,
+            "y_max": 0.5768518518518518
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3998125,
+            "y_min": 0.5216296296296297,
+            "x_max": 0.5106041666666666,
+            "y_max": 0.5820740740740741,
+            "level": "highest"
+          },
+          {
+            "x_min": 0.4034583333333333,
+            "y_min": 0.6873703703703704,
+            "x_max": 0.6137291666666667,
+            "y_max": 0.8792962962962964,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_visible_frame0126.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_3_visible_frame0723.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6739583333333333,
+            "y_min": 0.562037037037037,
+            "x_max": 0.7744791666666667,
+            "y_max": 0.6037037037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.666452779918909,
+            "y_min": 0.5478621679544449,
+            "x_max": 0.784719095081091,
+            "y_max": 0.6240128320455551,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0959.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_5_visible_frame0699.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3848958333333333,
+            "y_min": 0.3731481481481482,
+            "x_max": 0.46979166666666666,
+            "y_max": 0.41574074074074074
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3600487369298935,
+            "y_min": 0.35352623045444487,
+            "x_max": 0.4915137630701065,
+            "y_max": 0.42967689454555513,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_6_visible_frame0989.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_4_visible_frame0144.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3875,
+            "y_min": 0.4666666666666667,
+            "x_max": 0.453125,
+            "y_max": 0.5342592592592592
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.384254499822855,
+            "y_min": 0.4511512494832277,
+            "x_max": 0.486839250177145,
+            "y_max": 0.5488487505167723,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0187.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_6_visible_frame0741.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.38177083333333334,
+            "y_min": 0.27870370370370373,
+            "x_max": 0.446875,
+            "y_max": 0.35
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.36496355339884756,
+            "y_min": 0.25990925684571264,
+            "x_max": 0.45534894660115244,
+            "y_max": 0.36509074315428736,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0139.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_5_visible_frame0207.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_1_visible_frame0473.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4192708333333333,
+            "y_min": 0.38796296296296295,
+            "x_max": 0.503125,
+            "y_max": 0.47685185185185186
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3915449897944927,
+            "y_min": 0.367117151170969,
+            "x_max": 0.5205643852055073,
+            "y_max": 0.490304723829031,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_3_visible_frame0341.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0885.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_6_visible_frame0683.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.509375,
+            "y_min": 0.19814814814814816,
+            "x_max": 0.5770833333333333,
+            "y_max": 0.2638888888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48367986038327215,
+            "y_min": 0.16873289600014688,
+            "x_max": 0.5924920146167278,
+            "y_max": 0.28439210399985315,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0719.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0001.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_visible_frame0353.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45208333333333334,
+            "y_min": 0.5574074074074075,
+            "x_max": 0.5713541666666667,
+            "y_max": 0.6935185185185185
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.43355065539479254,
+            "y_min": 0.5467287744581699,
+            "x_max": 0.5879337196052075,
+            "y_max": 0.7091306005418301,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_8_visible_frame0345.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0537.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5828125,
+            "y_min": 0.4203703703703704,
+            "x_max": 0.6671875,
+            "y_max": 0.46574074074074073
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.563913717418909,
+            "y_min": 0.3989955685287714,
+            "x_max": 0.682180032581091,
+            "y_max": 0.4720981814712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0281.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0379.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0799.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_visible_frame0840.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.30625,
+            "y_min": 0.5537037037037037,
+            "x_max": 0.4161458333333333,
+            "y_max": 0.6648148148148149
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2997481147944927,
+            "y_min": 0.5338561418652534,
+            "x_max": 0.4287675102055073,
+            "y_max": 0.6829407331347466,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0885.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0803.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_1_visible_frame0303.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_2_visible_frame0308.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5588541666666667,
+            "y_min": 0.5472222222222223,
+            "x_max": 0.5984375,
+            "y_max": 0.6064814814814815
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5418635192513466,
+            "y_min": 0.5304841189831495,
+            "x_max": 0.6163396057486534,
+            "y_max": 0.6160002560168505,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_5_visible_frame0992.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_2_visible_frame0756.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_7_visible_frame0794.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48541666666666666,
+            "y_min": 0.40925925925925927,
+            "x_max": 0.5385416666666667,
+            "y_max": 0.4638888888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_8_visible_frame0788.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0760.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_5_visible_frame0034.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6244791666666667,
+            "y_min": 0.4787037037037037,
+            "x_max": 0.6916666666666667,
+            "y_max": 0.5416666666666666
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6043150383234024,
+            "y_min": 0.45219594568014143,
+            "x_max": 0.7081849616765976,
+            "y_max": 0.5614759293198586,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_111509_1_3_visible_frame0725.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0568.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4921875,
+            "y_min": 0.3851851851851852,
+            "x_max": 0.5838541666666667,
+            "y_max": 0.43148148148148147
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48676527991890906,
+            "y_min": 0.37305748045444487,
+            "x_max": 0.605031595081091,
+            "y_max": 0.44920814454555513,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0204.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_5_visible_frame0577.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.375,
+            "y_min": 0.6092592592592593,
+            "x_max": 0.4348958333333333,
+            "y_max": 0.6814814814814815
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.36071592338383196,
+            "y_min": 0.5917606591433286,
+            "x_max": 0.44592470161616804,
+            "y_max": 0.6875362158566714,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0071.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_4_visible_frame0311.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4390625,
+            "y_min": 0.5314814814814814,
+            "x_max": 0.4942708333333333,
+            "y_max": 0.5851851851851851
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42119780510663984,
+            "y_min": 0.5148591189831495,
+            "x_max": 0.5006771948933602,
+            "y_max": 0.6003752560168505,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0746.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_2_visible_frame0043.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.540625,
+            "y_min": 0.4777777777777778,
+            "x_max": 0.6822916666666666,
+            "y_max": 0.5481481481481482
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5240375059843063,
+            "y_min": 0.46454273119568823,
+            "x_max": 0.6986187440156937,
+            "y_max": 0.5706135188043118,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0329.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_9_visible_frame0213.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5338541666666666,
+            "y_min": 0.525,
+            "x_max": 0.6255208333333333,
+            "y_max": 0.5648148148148148
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5168120856583118,
+            "y_min": 0.5032290551066398,
+            "x_max": 0.6394379143416882,
+            "y_max": 0.5827084448933602,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0273.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_7_visible_frame0173.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5385416666666667,
+            "y_min": 0.4601851851851852,
+            "x_max": 0.6255208333333333,
+            "y_max": 0.5703703703703704
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5148964557051658,
+            "y_min": 0.45058916464447973,
+            "x_max": 0.6315879192948342,
+            "y_max": 0.5845670853555203,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0102.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0668.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_8_visible_frame0474.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45364583333333336,
+            "y_min": 0.6212962962962963,
+            "x_max": 0.5130208333333334,
+            "y_max": 0.6935185185185185
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0801.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_7_visible_frame0922.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_8_visible_frame0368.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2734375,
+            "y_min": 0.4935185185185185,
+            "x_max": 0.3380208333333333,
+            "y_max": 0.5675925925925925
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2567352350056171,
+            "y_min": 0.47437733367085455,
+            "x_max": 0.3467803899943829,
+            "y_max": 0.5822632913291454,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0391.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0652.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_5_visible_frame0914.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_3_visible_frame0324.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5880208333333333,
+            "y_min": 0.3277777777777778,
+            "x_max": 0.6526041666666667,
+            "y_max": 0.39351851851851855
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5615619379281998,
+            "y_min": 0.31148722164332865,
+            "x_max": 0.6650005620718002,
+            "y_max": 0.40726277835667135,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0531.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_visible_frame0207.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.328125,
+            "y_min": 0.5305555555555556,
+            "x_max": 0.4557291666666667,
+            "y_max": 0.6638888888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.31343346789479254,
+            "y_min": 0.5114167588949203,
+            "x_max": 0.46781653210520746,
+            "y_max": 0.6780363661050797,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0489.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_3_visible_frame0005.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_9_visible_frame0795.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_6_visible_frame0208.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5494791666666666,
+            "y_min": 0.5425925925925926,
+            "x_max": 0.6109375,
+            "y_max": 0.6046296296296296
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5164240892231464,
+            "y_min": 0.5150993871688843,
+            "x_max": 0.6300602857768536,
+            "y_max": 0.6216193628311157,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0554.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0896.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0302.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_8_visible_frame0344.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_2_visible_frame0049.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.525,
+            "y_min": 0.33055555555555555,
+            "x_max": 0.5921875,
+            "y_max": 0.4083333333333333
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5095884758234024,
+            "y_min": 0.31881032466888426,
+            "x_max": 0.6134583991765976,
+            "y_max": 0.42533030033111574,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0512.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0704.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.371875,
+            "y_min": 0.5037037037037037,
+            "x_max": 0.46041666666666664,
+            "y_max": 0.5444444444444444
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3605620856583118,
+            "y_min": 0.4878627560287714,
+            "x_max": 0.4831879143416882,
+            "y_max": 0.5609653689712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0503.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_1_visible_frame0095.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_5_visible_frame0803.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4875,
+            "y_min": 0.49166666666666664,
+            "x_max": 0.5401041666666667,
+            "y_max": 0.5583333333333333
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.45828923538327215,
+            "y_min": 0.47084675684571264,
+            "x_max": 0.5671013896167278,
+            "y_max": 0.5760282431542874,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0935.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0537.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_8_visible_frame0914.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_4_visible_frame0276.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4921875,
+            "y_min": 0.337037037037037,
+            "x_max": 0.55,
+            "y_max": 0.412962962962963
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4710287111997604,
+            "y_min": 0.32338581934571264,
+            "x_max": 0.5719400388002396,
+            "y_max": 0.42856730565428736,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_2_visible_frame0478.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_1_visible_frame0856.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4317708333333333,
+            "y_min": 0.42685185185185187,
+            "x_max": 0.47239583333333335,
+            "y_max": 0.48055555555555557
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4099133066087961,
+            "y_min": 0.4125124081224203,
+            "x_max": 0.4904773183912039,
+            "y_max": 0.4995969668775797,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0443.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0282.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_6_visible_frame0419.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.290625,
+            "y_min": 0.49074074074074076,
+            "x_max": 0.3494791666666667,
+            "y_max": 0.5685185185185185
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.2655242975056171,
+            "y_min": 0.47945597164332865,
+            "x_max": 0.3555694524943829,
+            "y_max": 0.5752315283566714,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_111509_1_8_visible_frame0062.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_8_visible_frame0126.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5015625,
+            "y_min": 0.42592592592592593,
+            "x_max": 0.54375,
+            "y_max": 0.49166666666666664
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48473931804299353,
+            "y_min": 0.4103446616977453,
+            "x_max": 0.5621356819570065,
+            "y_max": 0.5017647133022547,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0572.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_8_visible_frame0572.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_200805_1_8_visible_frame0841.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_1_visible_frame0855.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5244791666666667,
+            "y_min": 0.4027777777777778,
+            "x_max": 0.6541666666666667,
+            "y_max": 0.462037037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5011190804839134,
+            "y_min": 0.376441999822855,
+            "x_max": 0.6766152945160866,
+            "y_max": 0.479026750177145,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0853.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_4_visible_frame0213.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4348958333333333,
+            "y_min": 0.4777777777777778,
+            "x_max": 0.4796875,
+            "y_max": 0.5416666666666666
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.41684280849993227,
+            "y_min": 0.4640778689831495,
+            "x_max": 0.49526656650006773,
+            "y_max": 0.5495940060168505,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0769.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_1_visible_frame0343.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42135416666666664,
+            "y_min": 0.3768518518518518,
+            "x_max": 0.49635416666666665,
+            "y_max": 0.46574074074074073
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.39653646528720854,
+            "y_min": 0.360281213670969,
+            "x_max": 0.5214322847127915,
+            "y_max": 0.483468786329031,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_111757_1_10_visible_frame0340.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_1_visible_frame0395.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3953125,
+            "y_min": 0.49537037037037035,
+            "x_max": 0.5125,
+            "y_max": 0.5481481481481482
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.3751311334967613,
+            "y_min": 0.4777274741977453,
+            "x_max": 0.5272126165032387,
+            "y_max": 0.5691475258022547,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_8_visible_frame0827.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_4_visible_frame0710.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4328125,
+            "y_min": 0.41388888888888886,
+            "x_max": 0.5411458333333333,
+            "y_max": 0.525
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4206511969864368,
+            "y_min": 0.40207339406013487,
+            "x_max": 0.5559113030135632,
+            "y_max": 0.5412859809398651,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190926_095902_1_1_visible_frame0319.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_111757_1_3_visible_frame0791.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.421875,
+            "y_min": 0.42314814814814816,
+            "x_max": 0.49895833333333334,
+            "y_max": 0.5027777777777778
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.39360677778720854,
+            "y_min": 0.3964278022944927,
+            "x_max": 0.5185025972127915,
+            "y_max": 0.5254471977055073,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_200805_1_7_visible_frame0600.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0335.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_2_visible_frame0358.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_124000_1_1_visible_frame0716.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.571875,
+            "y_min": 0.47129629629629627,
+            "x_max": 0.6395833333333333,
+            "y_max": 0.5537037037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5530157978832722,
+            "y_min": 0.44858079358935354,
+            "x_max": 0.6618279521167278,
+            "y_max": 0.5689973314106465,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_5_visible_frame0924.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_111509_1_1_visible_frame0953.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.43697916666666664,
+            "y_min": 0.549074074074074,
+            "x_max": 0.5380208333333333,
+            "y_max": 0.6703703703703704
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.41771999329328535,
+            "y_min": 0.5353145222365856,
+            "x_max": 0.5549362567067146,
+            "y_max": 0.6814823527634144,
+            "level": "high"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0637.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_5_visible_frame0779.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5895833333333333,
+            "y_min": 0.44537037037037036,
+            "x_max": 0.7130208333333333,
+            "y_max": 0.5055555555555555
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5702517922222614,
+            "y_min": 0.4288993491977453,
+            "x_max": 0.7285763327777386,
+            "y_max": 0.5203194008022547,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0733.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0239.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0943.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_6_visible_frame0790.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42135416666666664,
+            "y_min": 0.6092592592592593,
+            "x_max": 0.5135416666666667,
+            "y_max": 0.6583333333333333
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.40961684241890906,
+            "y_min": 0.5920962426066398,
+            "x_max": 0.527883157581091,
+            "y_max": 0.6715756323933602,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0391.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_4_visible_frame0667.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4473958333333333,
+            "y_min": 0.4148148148148148,
+            "x_max": 0.5322916666666667,
+            "y_max": 0.4583333333333333
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.42133559241890906,
+            "y_min": 0.39551841795444487,
+            "x_max": 0.539601907581091,
+            "y_max": 0.47166908204555513,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0475.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_3_visible_frame0272.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_2_visible_frame0972.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4630208333333333,
+            "y_min": 0.4462962962962963,
+            "x_max": 0.5234375,
+            "y_max": 0.5138888888888888
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.43824452117085455,
+            "y_min": 0.42944645091891287,
+            "x_max": 0.5461304788291454,
+            "y_max": 0.5295379240810871,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0223.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_095902_1_2_visible_frame0107.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5447916666666667,
+            "y_min": 0.5518518518518518,
+            "x_max": 0.6859375,
+            "y_max": 0.6101851851851852
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.5222246381640434,
+            "y_min": 0.5302352900803089,
+            "x_max": 0.7101972368359566,
+            "y_max": 0.6299209599196911,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0657.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_6_visible_frame0087.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0480.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_134054_1_8_visible_frame0722.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6640625,
+            "y_min": 0.5518518518518518,
+            "x_max": 0.7203125,
+            "y_max": 0.6148148148148148
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.6407883721590042,
+            "y_min": 0.5341434716433286,
+            "x_max": 0.7400710028409958,
+            "y_max": 0.6299190283566714,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_134301_1_7_visible_frame0953.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  },
+  "20190926_102042_1_6_visible_frame0327.jpg": {
+    "raw_data": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.48333333333333334,
+            "y_min": 0.4685185185185185,
+            "x_max": 0.5703125,
+            "y_max": 0.5092592592592593
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": [
+          {
+            "x_min": 0.4650542731583118,
+            "y_min": 0.4497768185287714,
+            "x_max": 0.5876801018416882,
+            "y_max": 0.5228794314712286,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "20190925_124612_1_3_visible_frame0685.jpg": {
+    "raw_data": [],
+    "tags": [
+      "visible"
+    ],
+    "predictions": [
+      {
+        "class": "drone",
+        "boxes": []
+      }
+    ]
+  }
+}
