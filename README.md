@@ -167,7 +167,7 @@ Evaluated with IoU threshold `0.1`, GT class `drone`, prediction classes `drone`
 
 ### drone (GT) vs. drone (predictions)
 
-| Level | FAR % | Detection % | Counting % |
+| Level | False Alert Rate (FAR) % | Detection % | Counting % |
 |---|---|---|---|
 | highest | 0.00 | 0.46 | 7.43 |
 | high | 0.16 | 4.09 | 13.86 |
